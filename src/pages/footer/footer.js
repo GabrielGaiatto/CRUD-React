@@ -19,9 +19,9 @@ class Footer extends Component{
                         <div className="row">
                             <a href="https://www.facebook.com.br"><img src={FB}></img></a>
                             <a href="https://twitter.com/login?lang=pt"><img src={TT}></img></a>
-                            <a herf="https://instagram.com.br"><img src={YT}></img></a>
-                            <a href=""><img src={WPP}></img></a>
-                            <a href=""><img src={DISC}></img></a>
+                            <a href="https://www.youtube.com/"><img src={YT}></img></a>
+                            <a href="https://web.whatsapp.com/"><img src={WPP}></img></a>
+                            <a href="https://discord.com/"><img src={DISC}></img></a>
                             <a href="https://instagram.com.br"><img src={INSTA}></img></a>
                         </div>
 
